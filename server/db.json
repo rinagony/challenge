@@ -1,0 +1,100 @@
+{
+  "files": [
+    {
+      "id": 1,
+      "type": "image/jpeg",
+      "name": "gull",
+      "size": "4 KB",
+      "url": "http://localhost:4500/1.jfif",
+      "date": "2021-12-19T12:15:38.919Z"
+    },
+    {
+      "id": 2,
+      "type": "image/jpeg",
+      "name": "Skiing",
+      "size": "432 KB",
+      "url": "http://localhost:4500/snowshoe.jpg",
+      "date": "2021-12-19T12:18:03.786Z"
+    },
+    {
+      "id": 3,
+      "type": "image/jpeg",
+      "name": "Employee",
+      "size": "89 KB",
+      "url": "http://localhost:4500/istockphoto-1322913815-170667a.jpg",
+      "date": "2021-12-19T15:47:42.657Z"
+    },
+    {
+      "id": 4,
+      "type": "image/jpeg",
+      "name": "computer",
+      "size": "107 KB",
+      "url": "http://localhost:4500/RAA_p03_01-e1567611001503.jpg",
+      "date": "2021-12-19T15:57:15.111Z"
+    },
+    {
+      "id": 5,
+      "type": "image/jpeg",
+      "name": "Nature",
+      "size": "8 KB",
+      "url": "http://localhost:4500/sea.jfif",
+      "date": "2021-12-19T16:03:42.382Z"
+    },
+    {
+      "id": 6,
+      "type": "audio/mpeg",
+      "name": "Rick Astley",
+      "size": "4143 KB",
+      "url": "http://localhost:4500/Rick Astley - Never Gonna Give You Up (Official Music Video)_160k.mp3",
+      "date": "2021-12-19T21:51:38.482Z"
+    },
+    {
+      "id": 7,
+      "type": "image/jpeg",
+      "name": "Lana Del Rey",
+      "size": "114 KB",
+      "url": "http://localhost:4500/3RX3BFHKMJFTXKR7V7BGARXWAM.jpg",
+      "date": "2021-12-19T22:25:06.028Z"
+    },
+    {
+      "id": 8,
+      "type": "audio/mpeg",
+      "name": "Complainer",
+      "size": "3527 KB",
+      "url": "http://localhost:4500/Choir Boy - Complainer (Official Video) (320 kbps).mp3",
+      "date": "2021-12-19T22:27:11.646Z"
+    },
+    {
+      "id": 9,
+      "type": "image/jpeg",
+      "name": "Drab Majesty",
+      "size": "129 KB",
+      "url": "http://localhost:4500/drabmajesty201812401.jpg",
+      "date": "2021-12-19T22:28:13.387Z"
+    },
+    {
+      "id": 10,
+      "type": "video/mp4",
+      "name": "kitty cats",
+      "size": "6167 KB",
+      "url": "http://localhost:4500/1 Minute Compilation of Cute & Funny Cats!.mp4",
+      "date": "2021-12-19T22:32:22.259Z"
+    },
+    {
+      "id": 11,
+      "type": "image/jpeg",
+      "name": "Game of Thrones",
+      "size": "31 KB",
+      "url": "http://localhost:4500/107030866_got_clarke_alamy.jpg",
+      "date": "2021-12-20T12:02:42.580Z"
+    },
+    {
+      "id": 12,
+      "type": "image/jpeg",
+      "name": "Octopus",
+      "size": "59 KB",
+      "url": "http://localhost:4500/istockphoto-655094820-170667a.jpg",
+      "date": "2021-12-20T12:33:39.571Z"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+.wrapper {
+    color: #898989;
+    margin: 1.5em;
+}
+
+.fileWrapper {
+    border: 1px solid #898989;
+    background: #222222;
+    padding: 0.5em 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1em 0;
+}
+
+.wrapperTitle:hover {
+    color: #EE6352;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.wrapperTitle {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.wrapperTitle p {
+    margin-left: 10px;
+}
+
+.wrapperInfo button {
+    background: inherit;
+    border: none;
+    color: #898989;;
+}
+
+.wrapperInfo button:hover {
+    color: #ff7e6d;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+}

@@ -1,0 +1,24 @@
+Description. (20 December, 2021)
+
+In 'task' folder there is a backend server to store files. I used Express as a backend. I installed four packages: express, express-fileupload (middleware for uploading files), cors (to cross-origin requests to the server) and nodemon (automatically restarting the application when file changed in the directory). I keep logic of the server in server.js file.
+
+In 'server' folder i used json-server package to store, retrieve and change files database (db.json)
+
+In 'alisa-task' folder there is application. I used Axios to make APIs requests (GET, POST) to database and to upload files to storage. I used fetch HTTP request to download files. To download files is necessery to use 'Allow CORS' plugin to work around the restrictions of a CORS policy. I used useContext to have only one state with files and functions, to avoid repetition. I used 'react-player' and 'react-audio-player' to play audio and video files.
+
+Installation process.
+
+'task' folder: 
+1) npm install
+2) npm start server
+
+'server' folder:
+1) npm install
+2) npm start
+
+'alisa-task' folder:
+1) npm install
+2) npm start
+
+Install 'Allow CORS: Access-Control-Allow-Origin' to your browser and activate it.
+

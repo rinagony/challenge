@@ -1,0 +1,58 @@
+.header {
+    background: #222222;
+    margin-bottom: 1.5em;
+}
+
+.wrapperButton button {
+    border: none;
+    background: inherit;
+    cursor: pointer;
+    color: #A3A3A3;
+    margin-right: 0.5em;
+    font-size: 37px;
+}
+
+.wrapperButtonUpload {
+    margin-left: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover, .wrapperButtonUpload button:hover {
+    color: #EE6352;
+    transition: 0.2s ease-in-out;
+}
+
+.wrapperButtonUpload button {
+    font-size: 17px;
+    cursor: pointer;
+    border: none;
+    background: inherit;
+    color: #A3A3A3;
+}
+
+.wrapperButtons {
+    display: flex;
+}
+
+.containerHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5em;
+}
+
+form {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.inputFile {
+    display: none;
+}
+
+.wrapperButton .active {
+    color: #EE6352;
+    transition: 0.2s ease-in-out;
+}
